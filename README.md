@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @littleboiiii-2004 
+- 👋 Hi, I’m @Suraj Singh
 - 👀 I’m interested in learning coding languages
-- 🌱 I’m currently learning Python,Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 You can reach me through my instagram:_suraj_bhagour
 
 <!---
